@@ -1,5 +1,7 @@
 # CS-360
 
+**SEE "MASTER" BRANCH FOR APP FILES**
+
 **Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?**
 
 This app was designed in order to meet the following user needs:

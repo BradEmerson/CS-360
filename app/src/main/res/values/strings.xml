@@ -1,0 +1,53 @@
+<resources>
+
+    <!--activity_main strings BME 10/1/2024   -->
+
+    <string name="app_name">Turtle Tracker</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="forgot_username">Forgot Username</string>
+    <string name="username_placeholder">Username</string>
+    <string name="password_placeholder">Password</string>
+    <string name="button_login">Login</string>
+    <string name="auto_login_checkbox">Auto Login</string>
+    <string name="create_account">Create Account</string>
+    <string name="no_connection_banner">No connection?  No problem!</string>
+    <string name="button_work_offline">Work Offline</string>
+
+    <!--database_info strings BME 10/1/2024   -->
+
+    <!--add_weight strings-->
+
+    <string name="date_placeholder">Date</string>
+    <string name="time_placeholder">Time</string>
+    <string name="weight_placeholder">Weight</string>
+    <string name="button_add_weight">Add Weigh-In</string>
+    <string name="title_activity_main2">Weight Log</string>
+    <string name="title_add_activity">Add Weight</string>
+    <string name="button_update">Update</string>
+    <string name="sms_manifest">This application requires use of the Android telephony feature for
+        certain features.  Please enable your permissions settings if you wish to receive SMS
+        messages or App Notifications. </string>
+    <string name="button_set_goal">Set Goal Weight</string>
+    <string name="button_set_goal_activity">Set Goal Weight</string>
+    <string name="text_delete_all">Delete All Entries</string>
+    <string name="current_goal">Current Goal: %1$s</string>
+    <string name="enable_sms">Enable SMS</string>
+    <string name="enable_notifications">Enable Notifications</string>
+    <string name="settings_banner">Settings</string>
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="auto_login_switch">Auto-Login</string>
+
+</resources>
